@@ -9,7 +9,7 @@ bachelor's degree in Computer Science at Uof People in USA and Informations Syst
 - 🌱 I’m currently learning <b>Next js & React native</b> <br/>
 - 💬 Ask me about <b> React , typescript, tailwind css</b> <br/>
 - 📫 How to reach me  <i>mwizerwaaime9@@gmail.com</i> <br/>
-- 👨‍💻 All of my projects are available at <a href ="https://codewithedison.github.io/codeWithAimeo/"></a> <br/>
+- 👨‍💻 All of my projects are available at <a href ="https://aime-stack.github.io/codeWithAime/"></a> <br/>
 - 📄 Know about my experiences <a href = "https://www.linkedin.com/in/aimeplaisirmwizerwa/">my Resume</a> <br/>
 - ⚡ Fun fact <b> AI will never Replace me</b> <br/>
 
