@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Aime</h1> <br>
-<h3 align="center"> Front end developer and UI/UX designer</h3> <br/>
+<h3 align="center"> FullStack Developer</h3> <br/>
 - 🔭 I’m currently studying 
 <a href="#" target="_blank">
 bachelor's degree in Computer Science at Uof People in USA and Informations Systems at University of Rwanda</b> </a> <br/>
